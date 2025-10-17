@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:v17.5.0
+sonatype/nexus3:3.85.0
